@@ -1,4 +1,2 @@
-This is the first readme file in gitlearn repository.
-Add second line in this file.
-Creat a new branch.
-Creating a new branch is quick and simple.
+This is the readme1 file in gitlearn repository.
+This line was add within the master branch.
